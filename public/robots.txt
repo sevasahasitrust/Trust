@@ -1,0 +1,6 @@
+# public/robots.txt
+User-agent: *
+Allow: /
+
+Sitemap: https://www.sevasahasitrust.org.in/sitemap.xml
+Host: www.sevasahasitrust.org.in
